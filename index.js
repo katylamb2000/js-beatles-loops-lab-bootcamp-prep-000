@@ -25,6 +25,7 @@ function johnLennonFacts (array) {
   return array
 }
  var number = 7
+ 
 function iLoveTheBeatles (number) {
   var array = []
   
